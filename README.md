@@ -2,7 +2,6 @@
 * HHA 504 HW 5
 * Due 11/5
 * OG Instructions below
-
 <br>
 
 # Video Procurement
@@ -20,6 +19,8 @@
 * I was able to get the flask app to run locally within cloud shell, but I ran into issues when trying to deploy to Google Cloud Run. I attempted to follow this [deployment quickstart guide](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service) but was unsuccessful
 
 # Screenshots
+![image](https://github.com/meglee67/flask_5_tailwind/assets/123908362/57225c94-c4f1-4b62-aaa1-386fb3bae5da)
+![image](https://github.com/meglee67/flask_5_tailwind/assets/123908362/1f560748-9715-43e1-a72d-13025e0b0f48)
 
 
 <br>
