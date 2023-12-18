@@ -5,6 +5,25 @@
 
 <br>
 
+# Video Procurement
+* I screencaptured a clip from this [Persona 5 Rainy Mood 10 Hours](https://youtu.be/Uq7kyf1T_lk?si=SrG_0MLiR0i3l0bb) video. I chose this because this is what I listen to when I need to sit down and get through alot of work.
+
+# Cloud CDN & Video Hosting
+* This was fairly simple, I chose to use GCP and followed their guide of setting up [Media CDN](https://cloud.google.com/media-cdn/docs/quickstart)
+* I hit the guide me button and it led me through step by step within the Google Cloud Console, though I was unable to proceed past the step where you begin to set up a "Create an origin to connect Media CDN to your bucket". I was unable to do this as I didn't have permissions for accessing Media CDN, and it wouldn't show up as an option in my menu.
+* I was still able to generate cloud storage link from where others could access my video and it worked for the flask deployment.
+
+# Flask App with Tailwind CSS
+* I just copied and modified the code from [Week 5 templates](https://github.com/hantswilliams/HHA_504_2023/blob/main/WK5/example_app/templates/index_tailwind.html)
+
+# Cloud Deployment
+* I was able to get the flask app to run locally within cloud shell, but I ran into issues when trying to deploy to Google Cloud Run. I attempted to follow this [deployment quickstart guide](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service) but was unsuccessful
+
+# Screenshots
+
+
+<br>
+
 # **Week 5 Homework Assignment: Video Hosting, Flask App & Cloud Deployment**
 
 ## **Objective**:
